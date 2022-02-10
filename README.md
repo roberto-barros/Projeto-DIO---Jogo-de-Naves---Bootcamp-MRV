@@ -1,4 +1,4 @@
-# Projeto-DIO-Jogo-de-Naves-Bootcamp-MRV
+# Projeto DIO Jogo de Naves Bootcamp MRV
 
 Projeto desenvolvido com o professor Denilson Bonatti.
 
